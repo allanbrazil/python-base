@@ -24,12 +24,12 @@ __version__ = "0.0.1"
 __author__ = "Allan"
 __license__ = "Unlicense"
 
-msg = "Hello World"
-nome = "Allaqfefn"
+
+nome = "Allan"
 
 if nome == "Allan":
-    print("Cara bacana")
+    print("cara muito bacana")
 else:
-    print("Não acho bacana")
+    print("não é tão bacana assim")
+    print("não é tão bacana assim")
 
-print(msg)
