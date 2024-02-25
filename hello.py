@@ -2,4 +2,34 @@
 
 #teste
 
-print('Hello World')
+"""
+Hello World Multi Linguas.
+
+Programa brabo em que define a lingua
+
+Usage: 
+
+Tenha a variavel LANG devidamente configurada ex:
+
+    export LANg=pt_BR
+
+Execução:
+
+    python3 hello.py
+    ou
+    ./hello.py
+"""
+
+__version__ = "0.0.1"
+__author__ = "Allan"
+__license__ = "Unlicense"
+
+msg = "Hello World"
+nome = "Allaqfefn"
+
+if nome == "Allan":
+    print("Cara bacana")
+else:
+    print("Não acho bacana")
+
+print(msg)
